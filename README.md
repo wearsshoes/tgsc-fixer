@@ -1,0 +1,1 @@
+The Good Scents Company (TGSC) is a well-known and invaluable source of information to perfumers and chemists. Unfortunately, since the creator's passing, the site no longer passes some basic browser security requirements. This is a partial fix for it.
